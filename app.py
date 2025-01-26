@@ -38,28 +38,13 @@ with col1:
     with col_t2:
         st.write(f":link: [Download CV](https://www.linkedin.com/in/thotsaphon-sirikutta-82511a154/)")
     
-    
 
-# Summary Section
 st.divider()
 
 con_1 =  st.container(border=False)
 with con_1:
     st.header("About Me")
     st.write(SUMMARY)
-
-#     # Skills Section
-#     st.markdown("---")
-#     st.header("Key Skills")
-#     st.write(
-#         "- Leadership and team management\n"
-#         "- Data engineering and development\n"
-#         "- Cloud technologies and DevOps\n"
-#         "- Programming and software development\n"
-#         "- Data analytics and visualization\n"
-#         "- Standards and compliance\n"
-#         "- Strategic and analytical thinking"
-#     )
 
 
 
