@@ -32,12 +32,13 @@ with col1:
     st.subheader(TITLE)
     col_t1, col_t2 = st.columns([0.5, 0.5])
     with col_t1:
-        st.write(f":link: [LinkedIn](https://www.linkedin.com/in/thotsaphon-sirikutta-82511a154/)")
+        if data['linked']:
+            st.write(f":link: [LinkedIn]({data['linked']})")
         st.write(f":email: [EMAIL](mailto:{EMAIL})")
         st.write(f":round_pushpin: {LOCATION}")
     with col_t2:
-        st.write(f":link: [Download CV](https://www.linkedin.com/in/thotsaphon-sirikutta-82511a154/)")
-    
+        if data['cv']:
+            st.write(f":link: [Download CV]({data['cv']})")    
 
 st.divider()
 

@@ -1,10 +1,12 @@
 {
     "profile_url": "https://media.licdn.com/dms/image/v2/D5603AQGbcev-HCcG-g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731941595917?e=1743638400&v=beta&t=pe_D_gahkyunXEBnpXSC8RTHbC3oCQL-i_Y0lYjooLY",
     "name":"Thotsaphon Sirikutta",
-    "title":"Full-Stack Data Dude",
+    "title":"Full-Stack Data Engineer",
     "email":"t.sirikutta@gmail.com",
     "location": "Bangkok, Thailand",
     "summary":"Results-driven Development Manager with a foundation in economics and a strong focus on leveraging data engineering, analytics, and full-stack development to drive business growth. Proven expertise in cloud technologies, DevOps, and system architecture design, with a track record of leading teams to build scalable, data-driven platforms. Adept at aligning technical initiatives with strategic goals, optimizing business processes, and implementing industry best practices. Skilled in market analysis, economic forecasting, and distribution strategy optimization.",
+    "linked": "https://www.linkedin.com/in/thotsaphon-sirikutta-82511a154/",
+    "cv":"",
     "lst_exp": [
         {
             "roles":"Development Manager",
