@@ -34,7 +34,7 @@ with col1:
     with col_t1:
         if data['linked']:
             st.write(f":link: [LinkedIn]({data['linked']})")
-        st.write(f":email: [EMAIL](mailto:{EMAIL})")
+        st.write(f":email: [{EMAIL}](mailto:{EMAIL})")
         st.write(f":round_pushpin: {LOCATION}")
     with col_t2:
         if data['cv']:
