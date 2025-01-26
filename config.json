@@ -43,6 +43,6 @@
                 "- Introduced Apache Airflow, transforming legacy automation workflows for ETL pipelines. \n",
                 "- Built scalable APIs for calculating scores based on complex market research formulas. \n"
             ]
-        },
+        }
     ]
 }

@@ -4,7 +4,7 @@ import requests
 from io import BytesIO
 
 import json 
-with open('./experience.json','r', encoding='utf-8') as fp:
+with open('./config.json','r', encoding='utf-8') as fp:
     data = json.load(fp)
 
 
